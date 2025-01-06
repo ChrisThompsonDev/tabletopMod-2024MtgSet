@@ -19,6 +19,7 @@ When you open the game, greate a singleplayer game.
 
 
 Go to the Workshop section and launch the mod. 
+
 ![Workshop Button](/images/workshop.png)
 
 ![Mod Button](/images/selectMod.png)
@@ -37,12 +38,12 @@ You can then right click on the objects and save them. You will then be able to 
 ## How Everything Works:
 
 # Deckboxes
-Each Deckbox is dedicated to an individual set. So let's grab the Fallout deckbox and take a look! Simply Click on the box and hold. YOu will then be able to move the box around freely. 
+Each Deckbox is dedicated to an individual set. So let's grab the Fallout deckbox and take a look! Simply Click on the box and hold. You will then be able to move the box around freely. 
 
 You will see that the box is labeled for the "Complete Set". 
 ![Fallout Complete Set](/images/falloutSet.png)
 
-Now if you click/hold (quickly) and pull away from the boox you will remove the first of it's contents. 
+Now if you click/hold (quickly) and pull away from the box you will remove the first of it's contents. 
 
 The first thing that you will remove is the Commander Precon Deck Set. This box has all 4 Commander decks released with the Fallout theme. Dragging out it's contents you will see each set individually with their own custom deckboxes. And inside each of those is a bag of gameplay tools, token cards, your Commander and the rest of the deck. 
 
@@ -59,9 +60,9 @@ You can save the entire set, or a single Commander deck. It's up to you!
 
 
 # Booster Boxes
-I wanted to recreate the booster box experience as best as possible. So [I found a mod](https://steamcommunity.com/sharedfiles/filedetails/?id=3044444843) that had already created the model for a booster box. I then scoured the web for images and made some booster boxes for reach set. They are not 100% accurate, but I like how they came out. If you want to create your own boxes, the gimp template file can be found [here](/diffuseTemplates/Booster Box Template.xcf).
+I wanted to recreate the booster box experience as best as possible. So [I found a mod](https://steamcommunity.com/sharedfiles/filedetails/?id=3044444843) that had already created the model for a booster box. I then scoured the web for images and made some booster boxes for reach set. They are not 100% accurate, but I like how they came out. If you want to create your own boxes, the gimp template file can be found under /diffuseTemplates/Booster Box Template.xcf.
 
-There are 2 different kinds of Deckboxes here. Most of them are completely randomized for each set. I used the script from the Mystery Booster Packs found in the "[Magic the gatherring Table - 4 Player Commander](https://steamcommunity.com/sharedfiles/filedetails/?id=2791750952)" mod. I modified the script to use a Booster Box model instead of a booster, and then also generate a booster pack with the appropriate diffuse image. I then changed the script to only pull from each particular set.
+There are 2 different kinds of Deckboxes here. Most of them are completely randomized for each set. I used the script from the Mystery Booster Packs found in the "[Magic the Gathering Table - 4 Player Commander](https://steamcommunity.com/sharedfiles/filedetails/?id=2791750952)" mod. I modified the script to use a Booster Box model instead of a booster, and then also generate a booster pack with the appropriate diffuse image. I then changed the script to only pull from each particular set.
 
 All you have to do is pull out a booster, wait a second, and then there will be 15 cards inside of the pack! Simply pull those out and see what you got!
 
